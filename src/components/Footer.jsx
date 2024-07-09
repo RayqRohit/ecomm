@@ -20,7 +20,7 @@ function Footer() {
             style={{ color: "gray" }}
             href="#"
           >
-            &nbsp; @rayq
+            &nbsp; @rayqrohit
           </a>
         </p>
       </footer>
