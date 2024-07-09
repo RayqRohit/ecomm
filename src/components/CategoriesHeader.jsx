@@ -1,6 +1,7 @@
 import { IconChevronLeft } from "@tabler/icons-react";
 import { useState } from "react";
 import { Link } from "react-router-dom";
+import "../components/CategoriesHeader.css";
 
 function CategoriesHeader() {
   const [btnName, setBtnName] = useState("All");
