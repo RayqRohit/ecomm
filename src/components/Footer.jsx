@@ -15,7 +15,7 @@ function Footer() {
         <p className="love">
            &nbsp; by{" "}
           <a
-            target="_blank"
+          
             rel="noreferrer"
             style={{ color: "gray" }}
             href="#"
