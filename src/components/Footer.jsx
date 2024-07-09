@@ -18,7 +18,7 @@ function Footer() {
             target="_blank"
             rel="noreferrer"
             style={{ color: "gray" }}
-            href="https://www.linkedin.com/in/rohitkumar1172/"
+            href="#"
           >
             &nbsp; @rayq
           </a>
